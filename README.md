@@ -1,0 +1,12 @@
+## Screenshot of Book Rent System Through Hibernate
+![add-author-page](https://user-images.githubusercontent.com/60816519/129142869-5b3bfee5-6d60-4a58-bb20-661372c91c29.JPG)
+![add-book-page](https://user-images.githubusercontent.com/60816519/129142875-9bd78443-c661-4fac-9960-3fca37836fe2.JPG)
+![author-page](https://user-images.githubusercontent.com/60816519/129142878-911a8fe6-199c-48a0-b741-b2412fc292df.JPG)
+![books-page](https://user-images.githubusercontent.com/60816519/129142880-fadff4a8-f044-41e9-a0ca-3cd0e8f0bae5.JPG)
+![delete-author](https://user-images.githubusercontent.com/60816519/129142883-23ea12e1-9d77-41e1-a805-c1f6594cd05c.JPG)
+![delete-book](https://user-images.githubusercontent.com/60816519/129142884-2cc08333-0bf1-4b35-bb59-0e9e8d6f7997.JPG)
+![home-page](https://user-images.githubusercontent.com/60816519/129142886-3dafcbb8-ac6d-4eda-b9da-46b5e994edcf.JPG)
+![login-page](https://user-images.githubusercontent.com/60816519/129142887-da83c95e-1e68-4969-aba4-ad6a0965bcc6.JPG)
+![registration-page](https://user-images.githubusercontent.com/60816519/129142888-2233b4b0-a78e-4352-8dda-60ed8d4b1185.JPG)
+![update-author-page](https://user-images.githubusercontent.com/60816519/129142889-4097039e-d4f6-4d1a-be09-1f0a7a2f4f4e.JPG)
+![update-book-page](https://user-images.githubusercontent.com/60816519/129142891-f96a50f3-fa62-4653-af48-515f0e8ba11c.JPG)
